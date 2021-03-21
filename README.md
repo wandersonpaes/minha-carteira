@@ -44,3 +44,27 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Instalando pacotes
+### Styled Components
+```
+yarn add styled-components
+```
+```
+yarn add @types/styled-components -D
+```
+### React Switch
+```
+yarn add react-switch
+```
+### React Icons
+```
+yarn add react-icons
+```
+### React Routes Dom
+```
+yarn add react-router-dom
+```
+```
+yarn add @types/react-router-dom -D
+```
